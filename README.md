@@ -37,6 +37,6 @@ En el notebook se evalúa el desempeño que tienen los modelos ganadores con las
 ### Notebook: ProyectoDeSemestre PCA - GB
 Contiene resultados del modelo Gradient Boosting tras aplicar la técnica PCA al conjunto de datos.
 ### Notebook: ProyectoDeSemestre PCA - RF
-Contiene resultados del modelo Gradient Boosting tras aplicar la técnica PCA al conjunto de datos.
+Contiene resultados del modelo Random Forest tras aplicar la técnica PCA al conjunto de datos.
 ### Notebook: ProyectoDeSemestre PCA - VP
-Contiene resultados del modelo Gradient Boosting tras aplicar la técnica PCA al conjunto de datos.
+Contiene resultados del modelo Ventana de Parzen tras aplicar la técnica PCA al conjunto de datos.
