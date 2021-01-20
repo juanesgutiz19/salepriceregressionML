@@ -12,7 +12,7 @@ Cabe aclarar que en cada carpeta se encuentra una carpeta llamada *datasets* que
 
 ## Carpeta: Experimentos
 ### Notebook: ProyectoDeSemestre RL-RF
-contiene las diferentes corridas para la selección del mejor conjunto de hiperparámetros de los modelos Regresión Lineal y Random Forest.
+Contiene las diferentes corridas para la selección del mejor conjunto de hiperparámetros de los modelos Regresión Lineal y Random Forest.
 ### Notebook: ProyectoDeSemestre GB, RN, SVR
 Contiene las diferentes corridas para la selección del mejor conjunto de hiperparámetros de los modelos Gradient Boosting, Redes Neuronales y Maquinas de vectores de soporte.
 ### Notebook: ProyectoDeSemestre VP
