@@ -32,3 +32,11 @@ En el notebook se evalúa el desempeño que tienen los modelos ganadores con las
 Incluye la implementación de la búsqueda secuencial hacia atrás por medio de la librería mlxtend, con la función SecuentialFeatureSelector (SFS), pasando como parámetro 280, que es el número de variables que se deben quedar en el modelo.
 #### Notebook: ProyectoDeSemestre Seleccion de características (280) - GB, RF, VP
 En el notebook se evalúa el desempeño que tienen los modelos ganadores con las 280 características seleccionadas.
+
+## Carpeta: Extracción de Características
+### Notebook: ProyectoDeSemestre PCA - GB
+Contiene resultados de aplicar PCA al modelo
+### Notebook: ProyectoDeSemestre PCA - RF
+Contiene las diferentes corridas para la selección del mejor conjunto de hiperparámetros de los modelos Gradient Boosting, Redes Neuronales y Maquinas de vectores de soporte.
+### Notebook: ProyectoDeSemestre PCA - VP
+Contiene las diferentes corridas para la selección del mejor conjunto de hiperparámetros de los modelos Gradient Boosting, Redes Neuronales y Maquinas de vectores de soporte.
