@@ -24,12 +24,12 @@ En el notebook se determina qué variables son candidatas a ser eliminadas a tra
 ## Carpeta: Selección de Características
 ### Subcarpeta: 250
 #### Notebook: Sequential Backward Selection - Wrapper 250
-Incluye la implementación de la búsqueda secuencial hacia atrás por medio de la librería mlxtend, con la función SecuentialFeatureSelector (SFS), pasando como parámetro 250, que es el número de variables que se deben quedar en el modelo.
+Incluye la implementación de la búsqueda secuencial hacia atrás por medio de la librería mlxtend, con la función SecuentialFeatureSelector (SFS), pasando como parámetro 250, que es el número de variables que se quedan en el modelo.
 #### Notebook: ProyectoDeSemestre Seleccion de características (250) - GB, RF, VP
 En el notebook se evalúa el desempeño que tienen los modelos ganadores con las 250 características seleccionadas.
 ### Subcarpeta: 280
 #### Notebook: Sequential Backward Selection - Wrapper
-Incluye la implementación de la búsqueda secuencial hacia atrás por medio de la librería mlxtend, con la función SecuentialFeatureSelector (SFS), pasando como parámetro 280, que es el número de variables que se deben quedar en el modelo.
+Incluye la implementación de la búsqueda secuencial hacia atrás por medio de la librería mlxtend, con la función SecuentialFeatureSelector (SFS), pasando como parámetro 280, que es el número de variables que se quedan en el modelo.
 #### Notebook: ProyectoDeSemestre Seleccion de características (280) - GB, RF, VP
 En el notebook se evalúa el desempeño que tienen los modelos ganadores con las 280 características seleccionadas.
 
