@@ -10,13 +10,9 @@ Todos los notebooks están distribuidos en las siguientes carpetas:
 
 Cabe aclarar que en cada carpeta se encuentra una carpeta llamada *datasets* que contiene los datasets necesarios para la correcta ejecución de los notebooks. A continuación se explicarán los notebooks por carpeta, se presentan en el orden en que deberían ser ejecutados.
 
-## Carpeta:
-### Notebook:
-### Notebook:
-
 ## Carpeta: Experimentos
 ### Notebook: ProyectoDeSemestre RL-RF
-contiene las diferentes corridas para la selección del mejor conjunto de hiperparámetros de los Regresión Lineal y Random Forest.
+contiene las diferentes corridas para la selección del mejor conjunto de hiperparámetros de los modelos Regresión Lineal y Random Forest.
 ### Notebook: ProyectoDeSemestre GB, RN, SVR
 Contiene las diferentes corridas para la selección del mejor conjunto de hiperparámetros de los modelos Gradient Boosting, Redes Neuronales y Maquinas de vectores de soporte.
 ### Notebook: ProyectoDeSemestre VP
@@ -25,11 +21,14 @@ Contiene las diferentes corridas para la selección del mejor conjunto de hiperp
 ## Carpeta: Análisis individual de Características
 ### Notebook: ProyectoDeSemestre - Análisis individual de características
 En el notebook se determina qué variables son candidatas a ser eliminadas a través de las medidas de correlación de Pearson y Point-biserial. 
-
 ## Carpeta: Selección de Características
 ### Subcarpeta: 250
-#### Notebook:
-#### Notebook:
+#### Notebook: Sequential Backward Selection - Wrapper 250
+Incluye la implementación de la búsqueda secuencial hacia atrás por medio de la librería mlxtend, con la función SecuentialFeatureSelector (SFS), pasando como parámetro 250, que es el número de variables que se deben quedar en el modelo.
+#### Notebook: ProyectoDeSemestre Seleccion de características (250) - GB, RF, VP
+En el notebook se evalúa el desempeño que tienen los modelos ganadores con las 250 características seleccionadas.
 ### Subcarpeta: 280
-#### Notebook:
-#### Notebook:
+#### Notebook: Sequential Backward Selection - Wrapper
+Incluye la implementación de la búsqueda secuencial hacia atrás por medio de la librería mlxtend, con la función SecuentialFeatureSelector (SFS), pasando como parámetro 280, que es el número de variables que se deben quedar en el modelo.
+#### Notebook: ProyectoDeSemestre Seleccion de características (280) - GB, RF, VP
+En el notebook se evalúa el desempeño que tienen los modelos ganadores con las 280 características seleccionadas.
