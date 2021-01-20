@@ -35,8 +35,8 @@ En el notebook se evalúa el desempeño que tienen los modelos ganadores con las
 
 ## Carpeta: Extracción de Características
 ### Notebook: ProyectoDeSemestre PCA - GB
-Contiene resultados de aplicar PCA al modelo
+Contiene resultados del modelo Gradient Boosting tras aplicar la técnica PCA al conjunto de datos.
 ### Notebook: ProyectoDeSemestre PCA - RF
-Contiene las diferentes corridas para la selección del mejor conjunto de hiperparámetros de los modelos Gradient Boosting, Redes Neuronales y Maquinas de vectores de soporte.
+Contiene resultados del modelo Gradient Boosting tras aplicar la técnica PCA al conjunto de datos.
 ### Notebook: ProyectoDeSemestre PCA - VP
-Contiene las diferentes corridas para la selección del mejor conjunto de hiperparámetros de los modelos Gradient Boosting, Redes Neuronales y Maquinas de vectores de soporte.
+Contiene resultados del modelo Gradient Boosting tras aplicar la técnica PCA al conjunto de datos.
